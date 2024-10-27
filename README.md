@@ -1,6 +1,9 @@
 # Bowser-LKM
+
 Fun little Bowser themed character device (Loaded Kernel Module).
 This serves as a nerds playground for learning all about character drivers :) Feel free to *play*!
+
+![image](https://github.com/user-attachments/assets/07ee1032-75dd-485c-85b6-4cea73194186)
 
 ## Usage
 ```sh
