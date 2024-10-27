@@ -1,1 +1,0 @@
-savedcmd_/home/skelly/projects/bowser/Module.symvers :=  scripts/mod/modpost -M  -a    -N  -o /home/skelly/projects/bowser/Module.symvers -T /home/skelly/projects/bowser/modules.order -i Module.symvers -e 
